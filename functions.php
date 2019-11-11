@@ -16,3 +16,5 @@ function load_javascript()
 	wp_enqueue_script('custom');
 }
 add_action('wp_enqueue_scripts', 'load_javascript');
+
+add_theme_support('menus');
