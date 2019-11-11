@@ -1,2 +1,6 @@
-<?php
-//Front Page Template
+
+<!--Front Page Template-->
+<?php get_header(); ?>
+
+
+<?php get_footer(); ?>
