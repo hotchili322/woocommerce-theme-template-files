@@ -1,0 +1,2 @@
+<?php
+//Blog Archive Template
