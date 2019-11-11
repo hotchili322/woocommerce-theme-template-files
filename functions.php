@@ -17,4 +17,14 @@ function load_javascript()
 }
 add_action('wp_enqueue_scripts', 'load_javascript');
 
+
+//Add menus
 add_theme_support('menus');
+
+//Register some menus
+register_nav_menus(
+	array(
+		'top-menu' => 'Top Menu',
+	)
+);
+

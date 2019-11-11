@@ -1,3 +1,9 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 @import "header";
 @import "colours";
+
+#hero {
+  height: 400px;
+  width: 100%;
+  background-color: #f0f0f0;
+}
