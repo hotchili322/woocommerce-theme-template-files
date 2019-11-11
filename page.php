@@ -1,0 +1,3 @@
+<?php
+//Standard page template
+
